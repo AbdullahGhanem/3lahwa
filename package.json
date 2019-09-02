@@ -1,0 +1,23 @@
+{
+  "name": "ant",
+  "version": "1.0.0",
+  "description": "My pioneering Nuxt.js project",
+  "author": "abdullah ghanem",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.3.6",
+    "@nuxtjs/moment": "^1.2.0",
+    "ant-design-vue": "^1.1.10",
+    "moment": "^2.24.0",
+    "nuxt": "^2.0.0",
+    "nuxt-i18n": "^6.1.1",
+    "vue-infinite-loading": "^2.4.4"
+  },
+  "devDependencies": {}
+}

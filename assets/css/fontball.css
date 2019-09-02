@@ -1,0 +1,278 @@
+@font-face {
+  font-family: 'fontball';
+  src:  url('../fonts/fontball.eot?au9pa0');
+  src:  url('../fonts/fontball.eot?au9pa0#iefix') format('embedded-opentype'),
+    url('../fonts/fontball.ttf?au9pa0') format('truetype'),
+    url('../fonts/fontball.woff?au9pa0') format('woff'),
+    url('../fonts/fontball.svg?au9pa0#football') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="fontball-"], [class*=" fontball-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'fontball' !important;
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+	min-width: 1em;
+	display: inline-block;
+	text-align: center;
+	font-size: 17px;
+	vertical-align: middle;
+	position: relative;
+	top: -1px;
+
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.icon-2x {
+  font-size: 32px;
+}
+
+.icon-3x {
+  font-size: 48px;
+}
+
+.icon-bordered {
+  padding: 5px;
+  border: 2px solid;
+  border-radius: 50%;
+}
+
+.fontball-ball-goal:before {
+  content: "\e900";
+}
+.fontball-tshirt-10:before {
+  content: "\e901";
+}
+.fontball-cards:before {
+  content: "\e902";
+}
+.fontball-change:before {
+  content: "\e903";
+}
+.fontball-commentator:before {
+  content: "\e904";
+}
+.fontball-competition-1:before {
+  content: "\e905";
+}
+.fontball-competition:before {
+  content: "\e906";
+}
+.fontball-couple-of-football-cones:before {
+  content: "\e907";
+}
+.fontball-award:before {
+  content: "\e908";
+}
+.fontball-chalice-shaped-trophy:before {
+  content: "\e909";
+}
+.fontball-coach:before {
+  content: "\e90a";
+}
+.fontball-midair:before {
+  content: "\e90b";
+}
+.fontball-board:before {
+  content: "\e90c";
+}
+.fontball-player-blocking:before {
+  content: "\e90d";
+}
+.fontball-player-inclined:before {
+  content: "\e90e";
+}
+.fontball-football-player-kicking-ball-1:before {
+  content: "\e90f";
+}
+.fontball-player-kicking:before {
+  content: "\e910";
+}
+.fontball-football-player-landing-on-field-missing-the-ball:before {
+  content: "\e911";
+}
+.fontball-player-posture:before {
+  content: "\e912";
+}
+.fontball-player-running:before {
+  content: "\e913";
+}
+.fontball-player-stretching:before {
+  content: "\e914";
+}
+.fontball-player-head:before {
+  content: "\e915";
+}
+.fontball-player-injury:before {
+  content: "\e916";
+}
+.fontball-player-hands:before {
+  content: "\e917";
+}
+.fontball-player-ball:before {
+  content: "\e918";
+}
+.fontball-referee-card:before {
+  content: "\e919";
+}
+.fontball-football-socks-with-white-lines-design:before {
+  content: "\e91a";
+}
+.fontball-gloves:before {
+  content: "\e91b";
+}
+.fontball-game-tv:before {
+  content: "\e91c";
+}
+.fontball-goal-ball-2:before {
+  content: "\e91d";
+}
+.fontball-goal:before {
+  content: "\e91e";
+}
+.fontball-goalkeeper:before {
+  content: "\e91f";
+}
+.fontball-inflatable-cheerer:before {
+  content: "\e920";
+}
+.fontball-list:before {
+  content: "\e921";
+}
+.fontball-penalty-1:before {
+  content: "\e922";
+}
+.fontball-penalty:before {
+  content: "\e923";
+}
+.fontball-player-1:before {
+  content: "\e924";
+}
+.fontball-player-attempting-to-kick-ball:before {
+  content: "\e925";
+}
+.fontball-player-ban:before {
+  content: "\e926";
+}
+.fontball-player-kicking-ball:before {
+  content: "\e927";
+}
+.fontball-player-pluse:before {
+  content: "\e928";
+}
+.fontball-player-remove:before {
+  content: "\e929";
+}
+.fontball-player-setting-ball:before {
+  content: "\e92a";
+}
+.fontball-player-ok:before {
+  content: "\e92b";
+}
+.fontball-player:before {
+  content: "\e92c";
+}
+.fontball-players-on-game:before {
+  content: "\e92d";
+}
+.fontball-red-card-2:before {
+  content: "\e92e";
+}
+.fontball-red-card:before {
+  content: "\e92f";
+}
+.fontball-referee-2:before {
+  content: "\e930";
+}
+.fontball-referee:before {
+  content: "\e931";
+}
+.fontball-shoe-1:before {
+  content: "\e932";
+}
+.fontball-ball:before {
+  content: "\e933";
+}
+.fontball-corner:before {
+  content: "\e934";
+}
+.fontball-goal:before {
+  content: "\e935";
+}
+.fontball-shoe:before {
+  content: "\e936";
+}
+.fontball-tactics-sketch:before {
+  content: "\e937";
+}
+.fontball-sports-t-shirt:before {
+  content: "\e938";
+}
+.fontball-stadium:before {
+  content: "\e939";
+}
+.fontball-strategy-1:before {
+  content: "\e93a";
+}
+.fontball-strategy:before {
+  content: "\e93b";
+}
+.fontball-t-shirt-of-player-front:before {
+  content: "\e93c";
+}
+.fontball-tactics:before {
+  content: "\e93d";
+}
+.fontball-tactics-1:before {
+  content: "\e93e";
+}
+.fontball-team-1:before {
+  content: "\e93f";
+}
+.fontball-team-bench:before {
+  content: "\e940";
+}
+.fontball-team:before {
+  content: "\e941";
+}
+.fontball-cup:before {
+  content: "\e942";
+}
+.fontball-tshirt:before {
+  content: "\e943";
+}
+.fontball-tshirt-1:before {
+  content: "\e944";
+}
+.fontball-two-black-sportive-flags:before {
+  content: "\e945";
+}
+.fontball-whistle-1:before {
+  content: "\e946";
+}
+.fontball-whistle-2:before {
+  content: "\e947";
+}
+.fontball-whistle:before {
+  content: "\e948";
+}
+.fontball-yard-1:before {
+  content: "\e949";
+}
+.fontball-yard:before {
+  content: "\e94a";
+}
+.fontball-yellow-card-1:before {
+  content: "\e94b";
+}
+.fontball-yellow-card:before {
+  content: "\e94c";
+}
